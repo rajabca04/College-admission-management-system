@@ -1,0 +1,10 @@
+College addimition management system.
+
+Database:-
+
+account:
+	[name,email,phone,password.]
+
+registration:
+	[name,email,phone,class,dob,photo.]
+
